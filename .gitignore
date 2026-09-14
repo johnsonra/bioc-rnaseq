@@ -1,4 +1,4 @@
 _book/
 .jupyter_cache/
-.quarto/
+/.quarto/
 **/*.quarto_ipynb
