@@ -1,0 +1,13 @@
+project: 
+  output-dir: _book/slides
+  render:
+    - modules/01_intro.qmd
+    - modules/02_data1.qmd
+
+format:
+  revealjs:
+    slide-level: 4
+    date: ""
+    include-in-header:
+      - text: |
+          <link rel="icon" type="image/png" href="/assets/linux-terminal.png" />
