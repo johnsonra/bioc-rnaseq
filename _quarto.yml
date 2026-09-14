@@ -1,0 +1,17 @@
+project:
+  title: "RNA-seq analysis with Bioconductor"
+
+author: "Dr Randy Johnson"
+institute: "Hood College"
+date: "last-modified"
+
+execute:
+  warning: false
+  cache: true
+
+profile:
+  default: notes
+  group: 
+    - [notes, slides]
+
+editor: source

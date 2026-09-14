@@ -1,0 +1,11 @@
+---
+title: RNA-seq with Bioconductor
+subtitle: "Based on RNA-seq analysis with Bioconductor by Data Carpentry"
+---
+
+Render with 
+
+```{bash}
+quarto render
+quarto render --profile slides
+```
