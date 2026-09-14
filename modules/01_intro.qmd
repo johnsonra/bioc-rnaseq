@@ -13,7 +13,7 @@ Welcome to RNA-seq analysis with Bioconductor. This intro is part of a video ser
 ::: {.content-visible when-profile="slides"}
 These materials are is provided by the Data Carpentry Community under a Creative Commons license. See the RNA-seq analysis with Bioconductor incubator for more information:
 
-<https://carpentries-incubator.github.io/bioc-rnaseq/instructor/index.html>
+<https://carpentries-incubator.github.io/bioc-rnaseq/index.html>
 :::
 
 :::{.content-visible when-profile="notes"}
